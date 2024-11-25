@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = JuliePro
+build_property.RootNamespace = JuliePro
+build_property.ProjectDir = C:\Users\valerie.turgeon\Desktop\BW5_CW6_A24\TP2_DEPART\JuliePro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\valerie.turgeon\Desktop\BW5_CW6_A24\TP2_DEPART\JuliePro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Certification/TrainerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGlvblxUcmFpbmVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Discipline/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Discipline/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Discipline/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Discipline/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Discipline/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/TrainerCertification/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lckNlcnRpZmljYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/TrainerCertification/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lckNlcnRpZmljYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/TrainerCertification/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lckNlcnRpZmljYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/TrainerCertification/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lckNlcnRpZmljYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/TrainerCertification/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lckNlcnRpZmljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Trainer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Trainer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Trainer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Trainer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Trainer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/valerie.turgeon/Desktop/BW5_CW6_A24/TP2_DEPART/JuliePro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4bsf6gsm6e

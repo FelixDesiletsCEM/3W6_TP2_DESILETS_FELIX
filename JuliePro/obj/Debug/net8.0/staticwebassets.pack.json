@@ -1,0 +1,1081 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JuliePro.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JuliePro.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\haltere.svg",
+      "PackagePath": "staticwebassets\\images\\haltere.svg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\.gitignore",
+      "PackagePath": "staticwebassets\\images\\upload\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\006b2034-b34a-a03f-ecdd-7e9de8d887da.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\006b2034-b34a-a03f-ecdd-7e9de8d887da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\00727e7e-32a8-bde4-040f-3542e11d9966.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\00727e7e-32a8-bde4-040f-3542e11d9966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\04b4610c-10a6-63d4-2744-27519411415b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\04b4610c-10a6-63d4-2744-27519411415b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\060e280b-188a-e7c9-95f9-4c12a1521fda.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\060e280b-188a-e7c9-95f9-4c12a1521fda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\08cc55fb-9e45-f7d0-f9c8-3fa3f7a6bd41.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\08cc55fb-9e45-f7d0-f9c8-3fa3f7a6bd41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0b3dd7fc-dca8-f51b-6ea3-42d267c7d9d1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0b3dd7fc-dca8-f51b-6ea3-42d267c7d9d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0c3f8fdb-b1c6-f6ff-303e-9729fef367b9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0c3f8fdb-b1c6-f6ff-303e-9729fef367b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0d08601c-a95d-88cc-d4ca-ee24f72d85b1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0d08601c-a95d-88cc-d4ca-ee24f72d85b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0d1ee99e-7dfd-d3fe-c9ff-f4fe29fb66ed.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0d1ee99e-7dfd-d3fe-c9ff-f4fe29fb66ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0d687244-f6a6-0c61-a4e4-706a850c3c35.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0d687244-f6a6-0c61-a4e4-706a850c3c35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0df2587e-86a4-28c0-b652-52f16cd01da5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0df2587e-86a4-28c0-b652-52f16cd01da5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\0f9fe4b2-d5ce-4f90-e6cf-b0e74935b5a4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\0f9fe4b2-d5ce-4f90-e6cf-b0e74935b5a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\10459d7f-b28c-e3a8-a7b8-38bdd156016a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\10459d7f-b28c-e3a8-a7b8-38bdd156016a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\10ce73ad-1bdf-7599-4a95-ac92b89bb290.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\10ce73ad-1bdf-7599-4a95-ac92b89bb290.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\124d3e16-1d67-5850-0554-5e3cb96ee98e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\124d3e16-1d67-5850-0554-5e3cb96ee98e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\12e07bbc-e0e4-394c-6fcd-3f01c414ca3f.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\12e07bbc-e0e4-394c-6fcd-3f01c414ca3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\14deff22-226b-08ea-5ea7-4b34c346b79d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\14deff22-226b-08ea-5ea7-4b34c346b79d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\14e72068-9c0e-b97b-801d-35d5016994f0.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\14e72068-9c0e-b97b-801d-35d5016994f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\157a2d8c-d7e2-568a-d02f-90fed5c6362b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\157a2d8c-d7e2-568a-d02f-90fed5c6362b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\15ced1fe-1255-a135-0871-d37116f540f5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\15ced1fe-1255-a135-0871-d37116f540f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\15ff854c-b7a2-bf99-904c-0df2aef40def.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\15ff854c-b7a2-bf99-904c-0df2aef40def.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1670b4b9-9e69-fbba-3304-09e8ca73b41b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1670b4b9-9e69-fbba-3304-09e8ca73b41b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1822c0d9-f413-ace2-21df-20732e53d7d7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1822c0d9-f413-ace2-21df-20732e53d7d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1936711b-26c3-9bac-7b4e-b91bd9d48f01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1936711b-26c3-9bac-7b4e-b91bd9d48f01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1a300993-f0d7-4ba5-d206-e497af4036f9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1a300993-f0d7-4ba5-d206-e497af4036f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1a800da1-33ca-2412-d5b5-98c1ab2ef809.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1a800da1-33ca-2412-d5b5-98c1ab2ef809.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1bc3421b-d4d8-e70b-4f9a-8fac38f6d8e9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1bc3421b-d4d8-e70b-4f9a-8fac38f6d8e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1bfa1e3c-2278-6f96-713c-a1625a6395c2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1bfa1e3c-2278-6f96-713c-a1625a6395c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1d036b91-73f9-6c9d-b795-9828037cf90d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1d036b91-73f9-6c9d-b795-9828037cf90d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1d5380c6-3107-5eb1-afc9-a1dab5455499.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1d5380c6-3107-5eb1-afc9-a1dab5455499.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1d8466ac-0166-3fd6-c172-2f9098059d8d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1d8466ac-0166-3fd6-c172-2f9098059d8d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\1ed70671-9824-5293-0972-d07d867360f7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\1ed70671-9824-5293-0972-d07d867360f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\20c38c1d-5da3-d7c5-9864-847364d4c2a6.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\20c38c1d-5da3-d7c5-9864-847364d4c2a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\25cf68a9-07df-e214-e456-97b74bf58f03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\25cf68a9-07df-e214-e456-97b74bf58f03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\26402412-d032-f912-3591-1a6a35e24b83.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\26402412-d032-f912-3591-1a6a35e24b83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\27dc8e76-4483-3a95-bd59-978221177ba5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\27dc8e76-4483-3a95-bd59-978221177ba5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\28f63cfe-607a-1abc-bcd8-35c19f0ddcf1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\28f63cfe-607a-1abc-bcd8-35c19f0ddcf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\29767ac2-4596-f16a-5963-f3fa95afd333.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\29767ac2-4596-f16a-5963-f3fa95afd333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\2b417c56-7b97-a172-863b-36d1a0ff6707.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\2b417c56-7b97-a172-863b-36d1a0ff6707.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\2bba36c3-c7e9-a956-5131-bc0c53790c13.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\2bba36c3-c7e9-a956-5131-bc0c53790c13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\2bf1864a-ecd9-214f-db21-85c73439ecee.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\2bf1864a-ecd9-214f-db21-85c73439ecee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\2d2fd0fa-a641-02c8-0c67-ff78a4b24687.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\2d2fd0fa-a641-02c8-0c67-ff78a4b24687.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\2ecf79dc-88a2-c049-a390-235c2999d5fb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\2ecf79dc-88a2-c049-a390-235c2999d5fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3254b749-7c07-d770-0188-a5be320d81d1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3254b749-7c07-d770-0188-a5be320d81d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3956c672-7271-5643-ec9f-71f6665a10be.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3956c672-7271-5643-ec9f-71f6665a10be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3a5fb1d0-007e-0292-05fa-479eacab40c2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3a5fb1d0-007e-0292-05fa-479eacab40c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3aac020a-2d79-6f5f-597b-965747a4972d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3aac020a-2d79-6f5f-597b-965747a4972d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3c2b836b-7a31-f343-293a-1bd85b6680ed.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3c2b836b-7a31-f343-293a-1bd85b6680ed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3c78bda6-8480-2fed-f9a0-2c3352c1a337.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3c78bda6-8480-2fed-f9a0-2c3352c1a337.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3d613142-aa40-e1f7-8736-4706cbdd92c4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3d613142-aa40-e1f7-8736-4706cbdd92c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3d8eefec-3fac-95ae-4ccf-6f6239e4e730.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3d8eefec-3fac-95ae-4ccf-6f6239e4e730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3db108e2-a36c-9482-a503-b7860af32d8e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3db108e2-a36c-9482-a503-b7860af32d8e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\3e33206f-64e2-7874-8224-51012e221897.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\3e33206f-64e2-7874-8224-51012e221897.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\402f5aab-0489-d309-8e75-4c8120f2ad55.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\402f5aab-0489-d309-8e75-4c8120f2ad55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\4409e8d6-8e5d-b4cb-14d4-706a2adc386c.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\4409e8d6-8e5d-b4cb-14d4-706a2adc386c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\443b3f00-3f80-6841-f7d1-a5abad010752.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\443b3f00-3f80-6841-f7d1-a5abad010752.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\445951c3-510b-ddf9-064f-81486f5dd5aa.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\445951c3-510b-ddf9-064f-81486f5dd5aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\449bac7f-49b9-b173-aed0-9bdc035eb625.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\449bac7f-49b9-b173-aed0-9bdc035eb625.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\4568e51f-e275-290a-881f-26315f9175b5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\4568e51f-e275-290a-881f-26315f9175b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\48467e74-bf39-f1c6-371e-17378f7dba53.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\48467e74-bf39-f1c6-371e-17378f7dba53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\49ef8c25-aee1-deaa-7006-66e62402e008.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\49ef8c25-aee1-deaa-7006-66e62402e008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\4bd05333-b79d-d6af-8181-5f5130347fd0.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\4bd05333-b79d-d6af-8181-5f5130347fd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\4ed397a2-dbcf-f59b-832f-e1cfcf1e2a69.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\4ed397a2-dbcf-f59b-832f-e1cfcf1e2a69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\518917e5-0fd1-5a26-b1f3-f4e35779a2a6.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\518917e5-0fd1-5a26-b1f3-f4e35779a2a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\53fa145f-0f03-4a37-29ca-b6999efa5aaa.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\53fa145f-0f03-4a37-29ca-b6999efa5aaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\55a39fc9-ca0d-5b99-6b04-934008e5fbde.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\55a39fc9-ca0d-5b99-6b04-934008e5fbde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\563c0ab1-8989-b738-78ce-c5c09a25ae2d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\563c0ab1-8989-b738-78ce-c5c09a25ae2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\5704c090-bbf2-9bd5-60ab-68b3fb12fd52.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\5704c090-bbf2-9bd5-60ab-68b3fb12fd52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\579171ce-fd0d-a1c1-aef9-5b9e2792814e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\579171ce-fd0d-a1c1-aef9-5b9e2792814e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\580c93ce-9241-7fe3-2538-4d11d1aeca39.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\580c93ce-9241-7fe3-2538-4d11d1aeca39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\580e49d2-eb8f-bc61-8b47-13c9c0f39c03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\580e49d2-eb8f-bc61-8b47-13c9c0f39c03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\5ed18bc9-1041-d151-8460-d530aca312df.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\5ed18bc9-1041-d151-8460-d530aca312df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\5efa92d9-233a-c2bf-d947-79582b12174d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\5efa92d9-233a-c2bf-d947-79582b12174d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6106281f-07ec-b6c1-c04c-ddf60d5d2a8a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6106281f-07ec-b6c1-c04c-ddf60d5d2a8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\612614f6-57b3-73bf-06f1-a0f16088a302.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\612614f6-57b3-73bf-06f1-a0f16088a302.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\62436a43-a89c-8ca6-145c-8f92afeef826.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\62436a43-a89c-8ca6-145c-8f92afeef826.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6260e32a-7dee-fdb0-cda9-10b175d4d2a2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6260e32a-7dee-fdb0-cda9-10b175d4d2a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\64cde7de-488a-5ca8-ec5c-07aeb5660d85.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\64cde7de-488a-5ca8-ec5c-07aeb5660d85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6551ebf6-2f71-aa22-9db5-19372b5a52b4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6551ebf6-2f71-aa22-9db5-19372b5a52b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6734ec3b-5bda-bf83-53fe-ada3fa300ee7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6734ec3b-5bda-bf83-53fe-ada3fa300ee7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\67ac5afa-8aaf-41f5-0b62-df185e7a6f0e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\67ac5afa-8aaf-41f5-0b62-df185e7a6f0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\69889f5e-28f1-5a89-1f9e-3fa79750cf93.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\69889f5e-28f1-5a89-1f9e-3fa79750cf93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6a4c964a-22fe-2b84-030f-144fcddf1abb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6a4c964a-22fe-2b84-030f-144fcddf1abb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6b880b5f-7c86-a025-1abd-6f8778f6f3d5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6b880b5f-7c86-a025-1abd-6f8778f6f3d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6c4a77a7-2829-5a73-7488-a52ceca9f581.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6c4a77a7-2829-5a73-7488-a52ceca9f581.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6c940f50-c3cb-17e3-7268-b2a8931c6637.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6c940f50-c3cb-17e3-7268-b2a8931c6637.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6e3c37dc-049d-16ef-3c48-ffbfcb0119b7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6e3c37dc-049d-16ef-3c48-ffbfcb0119b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6e7124e6-29a0-ffa7-20ba-2d89fb838ec9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6e7124e6-29a0-ffa7-20ba-2d89fb838ec9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\6f6b1cb1-961f-5280-8adb-fd37ee1307e9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\6f6b1cb1-961f-5280-8adb-fd37ee1307e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\717ed566-d7b0-5d12-175b-ac3d18c05318.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\717ed566-d7b0-5d12-175b-ac3d18c05318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\7221ddf9-536d-8e20-0085-8325f497a104.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\7221ddf9-536d-8e20-0085-8325f497a104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\72a2714d-2bdf-8528-0bdd-34432dbb47ab.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\72a2714d-2bdf-8528-0bdd-34432dbb47ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\758fac0e-75ef-0f32-f8c6-affcaadbe4cd.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\758fac0e-75ef-0f32-f8c6-affcaadbe4cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\77fe0bb5-23aa-d892-c10c-9bd2f20ad095.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\77fe0bb5-23aa-d892-c10c-9bd2f20ad095.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\78910424-7aed-2812-73cb-c57d60850d1d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\78910424-7aed-2812-73cb-c57d60850d1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\79a30b4f-7a81-7579-e9a1-4c7b779bd4f0.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\79a30b4f-7a81-7579-e9a1-4c7b779bd4f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\7c4e1bcd-dd35-c85a-60ab-4f6e43d5a2b7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\7c4e1bcd-dd35-c85a-60ab-4f6e43d5a2b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\7e184169-3eb2-ab1a-59f1-61fdc7c6908d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\7e184169-3eb2-ab1a-59f1-61fdc7c6908d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\80401635-edcc-0a1e-6ec8-80776dbfb42b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\80401635-edcc-0a1e-6ec8-80776dbfb42b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\8208f6ae-ca14-b592-d8e7-c82199b086ef.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\8208f6ae-ca14-b592-d8e7-c82199b086ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\826ea8e5-6cfd-5d7b-79e0-af951e24f301.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\826ea8e5-6cfd-5d7b-79e0-af951e24f301.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\82c8b0c3-e3c1-7957-6831-5393a888d028.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\82c8b0c3-e3c1-7957-6831-5393a888d028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\841cfc44-d8d9-fc03-8754-2c48d9c28468.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\841cfc44-d8d9-fc03-8754-2c48d9c28468.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\85438d6a-cc66-bdf3-9c41-ea09431749e6.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\85438d6a-cc66-bdf3-9c41-ea09431749e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\85815faa-aefe-7eca-4853-229218d27a9d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\85815faa-aefe-7eca-4853-229218d27a9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\85a3b8c3-f14c-c793-1ff7-e3cb4a5169c5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\85a3b8c3-f14c-c793-1ff7-e3cb4a5169c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\8705d089-1cd0-b953-2c3c-0c9d2ce29fa3.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\8705d089-1cd0-b953-2c3c-0c9d2ce29fa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\87b11716-3669-dce8-d986-ec08b384a8eb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\87b11716-3669-dce8-d986-ec08b384a8eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\88b60df2-2be6-48ee-fd58-7be84d93faf4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\88b60df2-2be6-48ee-fd58-7be84d93faf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\8b1423af-e306-de24-816b-f49477fbe28b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\8b1423af-e306-de24-816b-f49477fbe28b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\93a5d00f-0c60-57e6-a7f0-7dbf82a3f3ab.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\93a5d00f-0c60-57e6-a7f0-7dbf82a3f3ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\943dbce0-b331-99e6-8e07-1ce9330b27cd.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\943dbce0-b331-99e6-8e07-1ce9330b27cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\95343d33-f8be-0793-0d37-c3df0ea86376.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\95343d33-f8be-0793-0d37-c3df0ea86376.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\95841441-05e7-c54f-1d36-4c9b8166a70a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\95841441-05e7-c54f-1d36-4c9b8166a70a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\95f62be6-b14e-6506-42a2-31ad82b35222.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\95f62be6-b14e-6506-42a2-31ad82b35222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\95fdb89c-865e-bb1e-0585-e43305a1bf29.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\95fdb89c-865e-bb1e-0585-e43305a1bf29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\96fe436f-8821-a514-206a-3780c9edcfba.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\96fe436f-8821-a514-206a-3780c9edcfba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\97382122-6fe4-e934-d663-e47353d21993.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\97382122-6fe4-e934-d663-e47353d21993.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\9799a38e-5cf8-f1cb-9872-54edc8d413af.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\9799a38e-5cf8-f1cb-9872-54edc8d413af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\99c9cd34-c764-778b-9ae8-bee9562834d4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\99c9cd34-c764-778b-9ae8-bee9562834d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\9a303d67-66ca-6d13-ee88-51c9cc4014cf.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\9a303d67-66ca-6d13-ee88-51c9cc4014cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\9a743a75-dee9-55c0-45ac-01ebc1427ef9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\9a743a75-dee9-55c0-45ac-01ebc1427ef9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\9bacc18b-d49c-01fb-3d96-e0b3cc0a5da9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\9bacc18b-d49c-01fb-3d96-e0b3cc0a5da9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a13ba8d3-8ce5-ffe4-92da-c2d41d8786b3.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a13ba8d3-8ce5-ffe4-92da-c2d41d8786b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a4a51167-d332-40ea-d330-24f4ea8db1bb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a4a51167-d332-40ea-d330-24f4ea8db1bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a51b9a6b-6fe8-5544-dc49-6b05b0eff1d3.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a51b9a6b-6fe8-5544-dc49-6b05b0eff1d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a520702b-a552-3e53-c514-e7a782a7b9f9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a520702b-a552-3e53-c514-e7a782a7b9f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a6025a01-2c6b-f202-d1a5-55e4336585fc.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a6025a01-2c6b-f202-d1a5-55e4336585fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a7f20742-3679-8cc0-742a-c1ff1f275830.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a7f20742-3679-8cc0-742a-c1ff1f275830.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\a9d62119-3fda-2e7a-f23f-b86a65b7867b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\a9d62119-3fda-2e7a-f23f-b86a65b7867b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\aa8f2440-87be-852f-db7a-d09d630b5ca2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\aa8f2440-87be-852f-db7a-d09d630b5ca2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\aabfb7a0-6ea6-66be-a760-763336abca2a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\aabfb7a0-6ea6-66be-a760-763336abca2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\aac2ec02-0b22-c172-9080-3c4d1331841b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\aac2ec02-0b22-c172-9080-3c4d1331841b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\abcdd8f0-464e-3c77-e6e9-331790c2eac7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\abcdd8f0-464e-3c77-e6e9-331790c2eac7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\abfd833b-0d7b-630e-92eb-d6d5ea3b5530.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\abfd833b-0d7b-630e-92eb-d6d5ea3b5530.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\acd14fc7-ef21-104c-7c86-7d34b5317f07.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\acd14fc7-ef21-104c-7c86-7d34b5317f07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\acf36fde-38a4-5ba1-9103-5defea291809.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\acf36fde-38a4-5ba1-9103-5defea291809.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b0c83c13-b834-2b89-6f23-856d5a357839.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b0c83c13-b834-2b89-6f23-856d5a357839.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b1bdcb28-6e12-a56d-6c24-fc46b9e62f5e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b1bdcb28-6e12-a56d-6c24-fc46b9e62f5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b245b321-1532-c875-8e98-367c0ed180bd.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b245b321-1532-c875-8e98-367c0ed180bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b268e861-d3bc-96c3-fb35-df1d3f591f3e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b268e861-d3bc-96c3-fb35-df1d3f591f3e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b4000018-bf73-b9e9-11f3-dc426a945514.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b4000018-bf73-b9e9-11f3-dc426a945514.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b4483d66-5276-6bfe-a745-f195ff4a4c37.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b4483d66-5276-6bfe-a745-f195ff4a4c37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b4664c7f-237c-d084-4999-b0ced55cfd3b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b4664c7f-237c-d084-4999-b0ced55cfd3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b609a88c-1323-a697-689f-a30763c7d059.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b609a88c-1323-a697-689f-a30763c7d059.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b6bc4f76-dbb7-c4b9-9234-2c9f3dbb9822.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b6bc4f76-dbb7-c4b9-9234-2c9f3dbb9822.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\b8c48fba-3531-07da-d92e-3885723caf79.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\b8c48fba-3531-07da-d92e-3885723caf79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ba2a2268-dbf9-3b0d-fdca-9b27024180f7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ba2a2268-dbf9-3b0d-fdca-9b27024180f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ba9df6da-ab05-4332-db21-9307a5ca13b9.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ba9df6da-ab05-4332-db21-9307a5ca13b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bcdf5635-86af-6fec-d684-defd7d6ba10b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bcdf5635-86af-6fec-d684-defd7d6ba10b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bcfa77c5-bb3a-ae08-da1a-5a327741ee49.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bcfa77c5-bb3a-ae08-da1a-5a327741ee49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bdcea365-4298-e053-8787-9fa6de6da50f.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bdcea365-4298-e053-8787-9fa6de6da50f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bdf6be58-a94d-5203-3164-a586d0fa649b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bdf6be58-a94d-5203-3164-a586d0fa649b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\be21f24d-1b15-8b14-84bb-ab603afd0f2d.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\be21f24d-1b15-8b14-84bb-ab603afd0f2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bed15e9b-f55b-72d8-39dc-3189ceb4c627.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bed15e9b-f55b-72d8-39dc-3189ceb4c627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\bfb48ec7-ce87-cd92-051b-fbcbd3b38bdb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bfb48ec7-ce87-cd92-051b-fbcbd3b38bdb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c0af75b7-2131-b682-7857-16af22e97143.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c0af75b7-2131-b682-7857-16af22e97143.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c1088ddf-749b-58b8-fa65-08dc66ce918e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c1088ddf-749b-58b8-fa65-08dc66ce918e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c312778d-3bf7-84e7-82fe-7f001212c41b.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c312778d-3bf7-84e7-82fe-7f001212c41b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c3905251-f6a6-c969-4906-4a3ef8877778.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c3905251-f6a6-c969-4906-4a3ef8877778.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c395299d-96d0-f9f2-8086-6e769b3c815e.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c395299d-96d0-f9f2-8086-6e769b3c815e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c4a2ee0d-ade9-0943-a4b0-432165b69513.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c4a2ee0d-ade9-0943-a4b0-432165b69513.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c81a1546-afdb-81d9-b7fd-127a1d9b23d8.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c81a1546-afdb-81d9-b7fd-127a1d9b23d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\c8bb831c-02c9-06b8-0608-fe421d36cdb2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\c8bb831c-02c9-06b8-0608-fe421d36cdb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ca37135a-6706-1993-a23e-f20a77b3e641.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ca37135a-6706-1993-a23e-f20a77b3e641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\cb435d66-cc58-9916-b7f0-abb1eed85be3.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\cb435d66-cc58-9916-b7f0-abb1eed85be3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\cb991d88-7883-080d-14ae-2169f137e807.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\cb991d88-7883-080d-14ae-2169f137e807.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\cc888cdc-e004-69d8-6f08-0de0da6b4f32.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\cc888cdc-e004-69d8-6f08-0de0da6b4f32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ce0b4f2e-6d09-bb61-5da3-0b4bf8295435.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ce0b4f2e-6d09-bb61-5da3-0b4bf8295435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\cffaba49-946d-5e26-1032-7f4069dcab93.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\cffaba49-946d-5e26-1032-7f4069dcab93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d15c8238-1f40-a243-29ed-485244c285f1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d15c8238-1f40-a243-29ed-485244c285f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d19dd20b-cf71-1a5d-91ae-359aeabe3c9f.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d19dd20b-cf71-1a5d-91ae-359aeabe3c9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d1fe24ed-d058-40ab-c2ae-d1642e037d31.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d1fe24ed-d058-40ab-c2ae-d1642e037d31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d350c54f-449b-4344-8dee-9bee3cace6fa.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d350c54f-449b-4344-8dee-9bee3cace6fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d4d0a79a-7b6d-3bc4-4e50-4bd4aaf02238.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d4d0a79a-7b6d-3bc4-4e50-4bd4aaf02238.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d4d9d306-10eb-619f-b115-890c355e7884.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d4d9d306-10eb-619f-b115-890c355e7884.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d5d07ddb-8816-152d-72e4-7f941caaaae5.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d5d07ddb-8816-152d-72e4-7f941caaaae5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d780ecab-119f-0cb3-38f6-61bea74b5542.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d780ecab-119f-0cb3-38f6-61bea74b5542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d8c0cb9f-cca8-f5c9-b3e2-d2f2d83c9a65.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d8c0cb9f-cca8-f5c9-b3e2-d2f2d83c9a65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\d8cc67bc-6261-d8c5-e551-2befd85d0bc4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\d8cc67bc-6261-d8c5-e551-2befd85d0bc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\dccf2a09-061f-0d43-5807-b7831994f0ce.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\dccf2a09-061f-0d43-5807-b7831994f0ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\de014e54-2349-7f08-ce0a-3250d4a9bb7f.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\de014e54-2349-7f08-ce0a-3250d4a9bb7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\de74c5ab-b10b-ac8b-5862-d80bb26f0298.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\de74c5ab-b10b-ac8b-5862-d80bb26f0298.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\df008cc8-b3d1-ba94-afa5-2d158bc4bcf4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\df008cc8-b3d1-ba94-afa5-2d158bc4bcf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\dfebaae2-c21a-1d12-248e-4191fa7aef61.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\dfebaae2-c21a-1d12-248e-4191fa7aef61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\e2ab7fb2-e38a-cdd2-ce00-4587036aa074.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\e2ab7fb2-e38a-cdd2-ce00-4587036aa074.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\e79f159b-0fc8-ed0d-2a64-206e10632c58.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\e79f159b-0fc8-ed0d-2a64-206e10632c58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ea8dd8bb-16ea-1628-36f3-209aba9f724f.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ea8dd8bb-16ea-1628-36f3-209aba9f724f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ebccf66a-29eb-a3b4-aaf4-aa45b5f4eaed.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ebccf66a-29eb-a3b4-aaf4-aa45b5f4eaed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ececd65e-cf38-b47f-12be-c43341ee1ba8.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ececd65e-cf38-b47f-12be-c43341ee1ba8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\ed084c81-0a60-8507-9dec-f10d3dabec71.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\ed084c81-0a60-8507-9dec-f10d3dabec71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f26c0d98-4fc8-749b-7334-d7bdec2065d6.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f26c0d98-4fc8-749b-7334-d7bdec2065d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f35b085a-7871-2b16-8b23-a9fe5d89f067.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f35b085a-7871-2b16-8b23-a9fe5d89f067.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f5827589-b844-e54b-3bd7-3e95bc043bc7.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f5827589-b844-e54b-3bd7-3e95bc043bc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f5beb045-faa8-c069-c66c-fa6a716d70fb.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f5beb045-faa8-c069-c66c-fa6a716d70fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f5d55691-c693-9f09-dc80-ab5833eb771a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f5d55691-c693-9f09-dc80-ab5833eb771a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f60dc364-e594-7bd7-1a43-689b8eb41aed.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f60dc364-e594-7bd7-1a43-689b8eb41aed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\f6669292-882c-3b18-c919-2d90f8899d0c.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\f6669292-882c-3b18-c919-2d90f8899d0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\fcd11440-cc27-9bef-0e75-c590d521715a.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\fcd11440-cc27-9bef-0e75-c590d521715a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\images\\upload\\fd5a9cc1-d3d4-1225-74a0-9dda4b812500.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\fd5a9cc1-d3d4-1225-74a0-9dda4b812500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JuliePro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JuliePro.props",
+      "PackagePath": "build\\JuliePro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JuliePro.props",
+      "PackagePath": "buildMultiTargeting\\JuliePro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JuliePro.props",
+      "PackagePath": "buildTransitive\\JuliePro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
