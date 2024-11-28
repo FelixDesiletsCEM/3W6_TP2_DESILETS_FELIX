@@ -9,6 +9,16 @@
 <p>
     <a asp-action="Create">@Locals["Create New"]</a>
 </p>
+<form action="javascript:;" onsubmit="highlightRows(document.getElementById('nom').value);">
+    <p>Highlight by name</p>
+    <input type="text" id="nom" name="nom" />
+    <p>Filter by Date</p>
+    <input type="date" id="date" name="date" />
+    <button type="submit">Filter</button>
+    <!--$('tbody').find('tr').find('td:eq(2)')-->
+</form>
+
+
 <table class="table">
     <thead>
         <tr>
@@ -21,7 +31,8 @@
             <th>
                 @Html.DisplayNameFor(model => model.DateCertification)
             </th>
-            <th></th>
+            <th>
+            </th>
         </tr>
     </thead>
     <tbody>

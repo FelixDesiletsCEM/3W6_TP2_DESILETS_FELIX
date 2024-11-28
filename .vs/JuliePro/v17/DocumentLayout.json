@@ -1,12 +1,123 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainercertification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainercertification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainercertification\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainercertification\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainercertification\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainercertification\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "JuliePro\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "JuliePro\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T20:20:11.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "JuliePro\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "JuliePro\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T21:25:56.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JuliePro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JuliePro\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAOgAAAAAAAAAAADwvxABAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T20:26:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JuliePro\\Views\\TrainerCertification\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Edit.cshtml",
+              "RelativeToolTip": "JuliePro\\Views\\TrainerCertification\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T20:21:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Details.cshtml",
+              "RelativeDocumentMoniker": "JuliePro\\Views\\TrainerCertification\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Details.cshtml",
+              "RelativeToolTip": "JuliePro\\Views\\TrainerCertification\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T20:21:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "RelativeDocumentMoniker": "JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "RelativeToolTip": "JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T20:20:50.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

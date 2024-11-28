@@ -2,3 +2,25 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+function filtrerNom(pNom) {
+    $("tbody").find("tr:contains("pNom")").addClass("highlight");
+    alert('hello world');
+}
+function filtrerDate(pListeDate, pDate)
+{
+    foreach(item i in pListeDate)
+    {
+        if (i.text > pDate)
+        {
+            i.hide("fast");
+        }
+    }
+}
+function highlightRows(pNom) {
+
+    // Rechercher les lignes contenant le texte et ajouter la classe highlight
+
+    $('tbody').find('tr').filter(function () {
+        return $(this).text().includes(pNom);
+    }).addClass('highlight');
+}

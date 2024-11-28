@@ -729,3 +729,4 @@ C:\Users\2259475\source\repos\3W6_TP2_DESILETS_FELIX\JuliePro\obj\Debug\net8.0\r
 C:\Users\2259475\source\repos\3W6_TP2_DESILETS_FELIX\JuliePro\obj\Debug\net8.0\JuliePro.pdb
 C:\Users\2259475\source\repos\3W6_TP2_DESILETS_FELIX\JuliePro\obj\Debug\net8.0\JuliePro.genruntimeconfig.cache
 C:\Users\2259475\source\repos\3W6_TP2_DESILETS_FELIX\JuliePro\obj\Debug\net8.0\ref\JuliePro.dll
+C:\Users\2259475\source\repos\3W6_TP2_DESILETS_FELIX\JuliePro\obj\Debug\net8.0\JuliePro.sourcelink.json
