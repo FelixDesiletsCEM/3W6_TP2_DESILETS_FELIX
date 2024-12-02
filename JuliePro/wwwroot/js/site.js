@@ -24,3 +24,13 @@ function highlightRows(pNom) {
         return $(this).text().includes(pNom);
     }).addClass('highlight');
 }
+//Affichez le détail d'un Trainer dans la page Trainer/Index
+
+$(document).ready(function () {
+    $('.card').on('mouseover', function () {
+        $(this).find('aside').addClass('show');
+    }).on('mouseout', function () {
+        $(this).find('aside').removeClass('show');
+    });
+});
+
