@@ -40,8 +40,6 @@ namespace JuliePro.Controllers
 
             var trainers = await this._service.GetAllAsync(filter);
 
-            trainers.Items = await this._service.GetAllPaginatedAsync(0, 9);
-
             return View("Index", trainers);
         }
 

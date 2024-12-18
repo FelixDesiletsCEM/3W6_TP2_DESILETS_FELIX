@@ -1,4 +1,6 @@
-﻿using JuliePro.Models;
+﻿using JuliePro.Data;
+using JuliePro.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace JuliePro.Services
 {

@@ -2476,13 +2476,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"779"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 19:20:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"779"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 20:33:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/JuliePro/js/site.omvq2t1det.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"omvq2t1det"},{"Name":"integrity","Value":"sha256-YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw="},{"Name":"label","Value":"_content/JuliePro/js/site.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"779"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 19:20:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"779"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022YLdKPYWzOWj7S9k\u002BvQmoiziVJPVnL\u002BzFP9m9U0N6LQw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 20:33:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/JuliePro/JuliePro.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\JuliePro.m1emgtu0ga.bundle.scp.css'))</AssetFile>

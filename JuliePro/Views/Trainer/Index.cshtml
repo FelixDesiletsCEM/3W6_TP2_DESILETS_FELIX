@@ -165,25 +165,17 @@
     </div>
     <div id="content-pagination">
 <nav >
- <!-- <ul class="pagination" >
-   
-            <li class="page-item"><span data-page-id="0" class="page-link" >@Locals["Previous"]</span></li>
-            <li class="page-item active"><span class="page-link" data-page-id="0">1</span></li>
-            <li class="page-item"><span class="page-link" data-page-id="1">2</span></li>
-            <li class="page-item"><span class="page-link" data-page-id="1" >@Locals["Next"]</span></li>
-             
-  </ul>-->
         <ul class="pagination">
             <!-- Lien vers la première page -->
             @if (Model.SelectedPageIndex > 1)
             {
                 //<a class="page-item" asp-action="Index" asp-route-pageNumber="1" asp-route-pageSize="@Model.SelectedPageSize">Début</a>
-                <li class="page-item"><span class="page-link" data-page-id="0">Début</span></li>
+                <li class="page-item"><span class="page-link" data-page-id="1">Début</span></li>
             }
             else
             {
                 //<span class="disabled">Début</span>
-                <li class="disabled page-item"><span class="page-link" data-page-id="0">Début</span></li>
+                <li class="disabled page-item"><span class="page-link" data-page-id="1">Début</span></li>
             }
 
             <!-- Lien vers la page précédente -->
@@ -199,7 +191,7 @@
             }
 
             <!-- Liens vers les pages numérotées -->
-            @for (int i = 1; i <= (Model.Items.Count/Model.SelectedPageSize); i++)
+            @for (int i = 1; i <= Model.Items.TotalPages; i++)
             {
                 @if (i == Model.SelectedPageIndex)
                 {
@@ -226,15 +218,15 @@
             }
 
             <!-- Lien vers la dernière page -->
-            @if (Model.SelectedPageIndex < Model.Items.TotalPages)
+            @if (Model.SelectedPageIndex < Model.Items.TotalPages-1)
             {
                 //<a asp-action="Index" asp-route-pageNumber="@(Model.Items.TotalPages)" asp-route-pageSize="@Model.SelectedPageSize">Fin</a>
-                <li class="page-item"><span class="page-link" data-page-id="@Model.Items.TotalPages">Fin</span></li>
+                <li class="page-item"><span class="page-link" data-page-id="@Model.Items.TotalPages-1">Fin</span></li>
             }
             else
             {
                 //<span class="disabled">Fin</span>
-                <li class="disabled page-item"><span class="page-link" data-page-id="@Model.Items.TotalPages">Fin</span></li>
+                <li class="disabled page-item"><span class="page-link" data-page-id="@Model.Items.TotalPages-1">Fin</span></li>
             }
         </ul>
 </nav>

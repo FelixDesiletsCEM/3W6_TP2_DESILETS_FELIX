@@ -3,6 +3,7 @@ using JuliePro.Models;
 using JuliePro.Utility;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 
 namespace JuliePro.Services.impl
 {
@@ -37,13 +38,20 @@ namespace JuliePro.Services.impl
 
             //TODO Faire les filtres et utilisez les paramètres de pagination.
 
-            result.Items = await this._dbContext.Trainers.ToPaginatedAsync(0,10000);
+            result.Items = await this._dbContext.Trainers
+                .Where(t => filter.SearchNameText.IsNullOrEmpty() || t.FirstName.Contains(filter.SearchNameText!) || t.LastName.Contains(filter.SearchNameText!))//Tolower etait pas demande
+                .Where(t => filter.SelectedGender == null || t.Genre == filter.SelectedGender)
+                .Where(t => filter.SelectedDisciplineId == null || t.Discipline_Id == filter.SelectedDisciplineId)
+                .Where(t => filter.SelectedCertificationId == null || t.TrainerCertifications.Where(c => c.Id == filter.SelectedCertificationId).IsNullOrEmpty())
+                //TODO
+                //.Where(t => filter.SelectedCertificationCenter == null || t.TrainerCertifications.Where(c => c.Certification.Title == filter.SelectedCertificationCenter).IsNullOrEmpty() == false) 
 
+                .ToPaginatedAsync(filter.SelectedPageIndex, filter.SelectedPageSize);
             //TODO ajouter les éléments dans selectList 
             result.AvailablePageSizes = new SelectList(new List<int>() { 9, 12, 18, 21 });
-            result.Disciplines = new SelectList(new List<Discipline>(), "Id", "Name");
-            result.Certifications = new SelectList(new List<Certification>(), "Id", "FullTitle");
-            result.CertificationCenters = new SelectList(new List<string>());
+            result.Disciplines = new SelectList(this._dbContext.Disciplines, "Id", "Name");
+            result.Certifications = new SelectList(this._dbContext.Certifications, "Id", "FullTitle");
+            result.CertificationCenters = new SelectList(this._dbContext.Certifications.Select(c=>c.CertificationCenter));
 
             return result;
         }
