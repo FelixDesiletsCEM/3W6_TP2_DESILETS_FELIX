@@ -7806,23 +7806,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\2259475\\.nuget\\packages\\": {},
+    "C:\\Users\\Felix\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\JuliePro.csproj",
+      "projectUniqueName": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\JuliePro.csproj",
       "projectName": "JuliePro",
-      "projectPath": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\JuliePro.csproj",
-      "packagesPath": "C:\\Users\\2259475\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\obj\\",
+      "projectPath": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\JuliePro.csproj",
+      "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\2259475\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7849,7 +7849,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -7915,7 +7916,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

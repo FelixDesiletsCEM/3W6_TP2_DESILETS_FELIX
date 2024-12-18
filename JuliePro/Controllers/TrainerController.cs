@@ -38,7 +38,11 @@ namespace JuliePro.Controllers
         {
             //TODO implantez cette méthode (vous pouvez retourner la vue Index, avec le modèle filtré)!
 
-            return RedirectToAction(nameof(Index));
+            var trainers = await this._service.GetAllAsync(filter);
+
+            trainers.Items = await this._service.GetAllPaginatedAsync(0, 9);
+
+            return View("Index", trainers);
         }
 
 

@@ -24,3 +24,4 @@ function highlightRows(pNom) {
         return $(this).text().includes(pNom);
     }).addClass('highlight');
 }
+
