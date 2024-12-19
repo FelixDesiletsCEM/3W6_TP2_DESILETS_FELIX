@@ -39,7 +39,7 @@ namespace JuliePro.Services.impl
             //TODO Faire les filtres et utilisez les paramètres de pagination.
 
             result.Items = await this._dbContext.Trainers
-                .Where(t => filter.SearchNameText.IsNullOrEmpty() || t.FirstName.Contains(filter.SearchNameText!) || t.LastName.Contains(filter.SearchNameText!))//Tolower etait pas demande
+                .Where(t => filter.SearchNameText.IsNullOrEmpty() || t.FirstName.Contains(filter.SearchNameText!) || t.LastName.Contains(filter.SearchNameText!))//TODO FIXIT
                 .Where(t => filter.SelectedGender == null || t.Genre == filter.SelectedGender)
                 .Where(t => filter.SelectedDisciplineId == null || t.Discipline_Id == filter.SelectedDisciplineId)
                 .Where(t => filter.SelectedCertificationId == null || t.TrainerCertifications.Where(c => c.Id == filter.SelectedCertificationId).IsNullOrEmpty())

@@ -1,0 +1,60 @@
+﻿@model JuliePro.Models.RecordViewModel
+
+@{
+    ViewData["Title"] = "trainerIndex";
+}
+
+<h1>Index</h1>
+
+<p>
+Les records de @Model.trainer.FullName
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.record.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.record.Discipline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.record.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.record.Unit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.record.Trainer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TrainerRecords)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Discipline.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Unit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Trainer.FullName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
