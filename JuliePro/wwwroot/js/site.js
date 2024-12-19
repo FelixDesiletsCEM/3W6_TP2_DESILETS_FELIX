@@ -16,6 +16,8 @@ function filtrerDate(pListeDate, pDate)
         }
     }
 }
+//$("tbody").find("tr:contains('$(document).find(#date).val()')").addClass("highlight");
+//Marche pas, trop de guillemets. 
 function highlightRows(pNom) {
 
     // Rechercher les lignes contenant le texte et ajouter la classe highlight
@@ -24,4 +26,4 @@ function highlightRows(pNom) {
         return $(this).text().includes(pNom);
     }).addClass('highlight');
 }
-
+$("tbody").find(tr:contains($(document).find("#date").val()).addClass("highlight");
