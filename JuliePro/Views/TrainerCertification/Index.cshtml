@@ -3,13 +3,28 @@
 @{
     ViewData["Title"] = @Locals["Index"];
 }
+@section Scripts {
+<script>
+    $(document).ready(function () {
+        $("#nom").change(function () {
+            var nom = $("#nom").val();
+            $("tbody").find("tr").removeClass("highlight");
+            $("tbody").find("tr:contains("+nom+")").addClass("highlight");
+        });
+            $("#formFiltre").submit(function(){
+                var date = $("#date").val();
+            $("tr").find(".dateCertification").filter(function () { $(this).toggle($(this).text().toLowerCase().indexOf(date) > -1) });//TODO FIXIT
+            })
+    })
+</script>
+}
 
 <h1>@Locals["Index"]</h1>
 
 <p>
     <a asp-action="Create">@Locals["Create New"]</a>
 </p>
-<form action="javascript:;" onsubmit="highlightRows(document.getElementById('nom').value);">
+<form id="formFiltre">
     <p>Highlight by name</p>
     <input type="text" id="nom" name="nom" />
     <p>Filter by Date</p>
@@ -51,7 +66,7 @@
                 <a asp-action="Details" asp-controller="Certification" asp-route-id="@item.Certification_Id">   @Html.DisplayFor(modelItem => item.Certification.FullTitle) </a>
                
             </td>
-            <td>
+            <td class="dateCertification">
                 @Html.DisplayFor(modelItem => item.DateCertification)
             </td>
             <td>

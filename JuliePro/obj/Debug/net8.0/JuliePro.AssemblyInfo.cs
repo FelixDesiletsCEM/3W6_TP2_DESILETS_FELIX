@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuliePro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e62354c548a837aa13c94e42c396b633e02b89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ae90bd6b144606f3e19cc10c9462a00173d2f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuliePro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuliePro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

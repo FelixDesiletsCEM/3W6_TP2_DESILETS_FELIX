@@ -1,117 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\",
+  "WorkspaceRootPath": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\trainercertification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainercertification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainercertification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\trainersearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainersearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\trainersearchviewmodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainersearchviewmodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\trainercertification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainercertification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\trainercertificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainercertificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\recordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\recordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\trainersearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainersearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\trainersearchviewmodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainersearchviewmodelfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\trainercertification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainercertification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\trainercertificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainercertificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\recordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\recordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\trainer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\trainer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\record\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_selectlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_selectlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\shared\\_selectlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\trainerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\trainerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\record\\trainerindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\services\\impl\\recordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\services\\impl\\recordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\services\\impl\\recordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\views\\record\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\felix\\source\\3w6_tp2_desilets_felix\\juliepro\\services\\impl\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|c:\\users\\2259475\\source\\repos\\3w6_tp2_desilets_felix\\juliepro\\services\\impl\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24074667-470A-4893-A79A-1E78784EA26F}|JuliePro\\JuliePro.csproj|solutionrelative:juliepro\\services\\impl\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,371 +122,347 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "JuliePro\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:13:47.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:13:47.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TrainerCertificationViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertificationViewModel.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\TrainerCertificationViewModel.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertificationViewModel.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertificationViewModel.cs",
               "RelativeToolTip": "JuliePro\\Models\\TrainerCertificationViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:44:14.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:44:14.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Record.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Record.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Record.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\Record.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Record.cs",
               "RelativeToolTip": "JuliePro\\Models\\Record.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:44:22.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:44:22.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\TrainerCertification\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\TrainerCertification\\Index.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\TrainerCertification\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T00:04:19.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "JuliePro\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\wwwroot\\js\\site.js",
               "RelativeToolTip": "JuliePro\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-19T00:04:40.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Index.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Trainer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Index.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Trainer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T00:04:28.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Trainer.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\Trainer.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Trainer.cs",
               "RelativeToolTip": "JuliePro\\Models\\Trainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:13:52.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:13:52.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\Genre.cs",
               "RelativeToolTip": "JuliePro\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:15:28.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:15:28.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TrainerSearchViewModelFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
               "RelativeToolTip": "JuliePro\\Models\\TrainerSearchViewModelFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:15:46.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:15:46.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Edit.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Trainer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Edit.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Trainer\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAA3AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T00:57:17.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RecordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\RecordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\RecordViewModel.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\RecordViewModel.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\RecordViewModel.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\RecordViewModel.cs",
               "RelativeToolTip": "JuliePro\\Models\\RecordViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T22:58:28.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T22:58:28.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TrainerSearchViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModel.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\TrainerSearchViewModel.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerSearchViewModel.cs",
               "RelativeToolTip": "JuliePro\\Models\\TrainerSearchViewModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA7wBcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:00:52.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:00:52.814Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Details.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Trainer\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Trainer\\Details.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Trainer\\Details.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T23:53:34.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:53:34.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TrainerCertification.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertification.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertification.cs",
               "RelativeDocumentMoniker": "JuliePro\\Models\\TrainerCertification.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertification.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Models\\TrainerCertification.cs",
               "RelativeToolTip": "JuliePro\\Models\\TrainerCertification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:19:01.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T21:19:01.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Edit.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Record\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Edit.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Record\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T01:14:38.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:14:38.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "JuliePro\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\HomeController.cs",
               "RelativeToolTip": "JuliePro\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:41:08.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:41:08.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:43:42.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:43:42.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "_SelectLanguage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Shared\\_SelectLanguage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:44:17.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:44:17.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:48:32.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:48:32.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:50:43.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:50:43.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:53:13.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:53:13.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Program.cs",
               "RelativeDocumentMoniker": "JuliePro\\Program.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Program.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Program.cs",
               "RelativeToolTip": "JuliePro\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:38:17.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:38:17.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "TrainerIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\TrainerIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\TrainerIndex.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Record\\TrainerIndex.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\TrainerIndex.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\TrainerIndex.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Record\\TrainerIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:00:35.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:00:35.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "TrainerController.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "JuliePro\\Controllers\\TrainerController.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\TrainerController.cs",
               "RelativeToolTip": "JuliePro\\Controllers\\TrainerController.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAAwDYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:57:20.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:57:20.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "RecordController.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\RecordController.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\RecordController.cs",
               "RelativeDocumentMoniker": "JuliePro\\Controllers\\RecordController.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\RecordController.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Controllers\\RecordController.cs",
               "RelativeToolTip": "JuliePro\\Controllers\\RecordController.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAAAL4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:00:05.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:00:05.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Index.cshtml",
               "RelativeDocumentMoniker": "JuliePro\\Views\\Record\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Views\\Record\\Index.cshtml",
               "RelativeToolTip": "JuliePro\\Views\\Record\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T00:00:37.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T00:00:37.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "RecordService.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\RecordService.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\RecordService.cs",
               "RelativeDocumentMoniker": "JuliePro\\Services\\impl\\RecordService.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\RecordService.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\RecordService.cs",
               "RelativeToolTip": "JuliePro\\Services\\impl\\RecordService.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T23:32:17.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T23:32:17.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "TrainerService.cs",
-              "DocumentMoniker": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\TrainerService.cs",
+              "DocumentMoniker": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\TrainerService.cs",
               "RelativeDocumentMoniker": "JuliePro\\Services\\impl\\TrainerService.cs",
-              "ToolTip": "C:\\Users\\Felix\\source\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\TrainerService.cs",
+              "ToolTip": "C:\\Users\\2259475\\source\\repos\\3W6_TP2_DESILETS_FELIX\\JuliePro\\Services\\impl\\TrainerService.cs",
               "RelativeToolTip": "JuliePro\\Services\\impl\\TrainerService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAwCkAAACtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:40:08.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T17:40:08.892Z"
             }
           ]
         }
